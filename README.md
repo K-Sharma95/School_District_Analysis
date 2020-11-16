@@ -7,7 +7,10 @@ about these schools and these students. These analyses are completed through Pyt
 changing or manipulating data, and seeing how these changes affect the bigger picture. 
 
 # Results
-Upon finding evidence of academic dishonesty in the 
+Upon finding evidence of academic dishonesty in the test scores of Thomas High School ninth graders, both the math and reading score are compromised.This can be observed in the
+[Resources/students_complete.csv](Resources/students_complete.csv).Our client Maria has tasked us with removing these score, replacing them with a "NaN' value, and then re-analyzing the data from there. 
+After doing so, we can observe the following; 
+
 * How is the district summary affected?
 
 * How is the school summary affected?
