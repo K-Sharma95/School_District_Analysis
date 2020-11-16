@@ -43,7 +43,9 @@ The scores based on school size will decrease. Thomas High school is in the "med
 Due to my lack of information I am unable to comment on this section. 
 
 ## Summary 
-
-
+In summary based on my incomplete data and assignment I can list four major changed I EXPECT to occur once the fraudulent scores have been replaced with "NaN'
+Firstly, Thomas High School will receive a lower rank and many metrics/averages will also be lowered. Secondly the spending ranged will increase per student at 
+Thomas High School. Thirdly the statistics for the Charter school will also decrese in relation to less students passing math and reading. Fianlly I can observe that 
+the school_district_analysis will provide a more realistic overview of the school and associated students post grade removal. 
 
 
