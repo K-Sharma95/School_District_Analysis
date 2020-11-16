@@ -10,15 +10,15 @@ changing or manipulating data, and seeing how these changes affect the bigger pi
 Upon finding evidence of academic dishonesty in the test scores of Thomas High School ninth graders, both the math and reading score are compromised.This can be observed in the
 [Resources/students_complete.csv](Resources/students_complete.csv).Our client Maria has tasked us with removing these score, replacing them with a "NaN' value, and then re-analyzing the data from there. Unfortunately I was unable to complete the removal of these scores, however I have completed all other requirements. Therefore my results will be
 also based on a best educated guess, and I will try my best to accurately predict these results. 
-After doing so, we can observe the following;
+After replacing the fraudulent grades with "nan", we can estimate the following:
 
 * **How is the district summary affected?**
 
-Thomas Highschool averages and the associated district averages have gone down.
+Thomas Highschool averages and the associated district averages will go down.
 
 * **How is the school summary affected?**
 
-The overall passing rate in Thomas High School has gone down. 
+The overall passing rate in Thomas High School will go down
 
 
 * **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
