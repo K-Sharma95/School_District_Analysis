@@ -13,6 +13,7 @@ also based on a best educated guess, and I will try my best to accurately predic
 After doing so, we can observe the following;
 
 * How is the district summary affected?
+
 Thomas Highschool averages and the associated district averages have gone down.
 
 * How is the school summary affected?
