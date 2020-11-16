@@ -12,7 +12,7 @@ Upon finding evidence of academic dishonesty in the test scores of Thomas High S
 also based on a best educated guess, and I will try my best to accurately predict these results. 
 After doing so, we can observe the following;
 
-* **How is the district summary affected?
+* **How is the district summary affected?**
 
 Thomas Highschool averages and the associated district averages have gone down.
 
