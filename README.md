@@ -1,12 +1,12 @@
 ## School_District_Analysis
 Module 4
 
-#Overview 
+# Overview 
 The purpose of this project is so analyze school data; such as test scores, student numbers, passing paramteres etc., in order to provide more detailed information
 about these schools and these students. These analyses are completed through Python and Jupyter Notebook software(s), using skills such as building Dataframes, 
 changing or manipulating data, and seeing how these changes affect the bigger picture. 
 
-#Results
+# Results
 Upon finding evidence of academic dishonesty in the 
 *How is the district summary affected?
 
@@ -20,7 +20,7 @@ Scores by school spending
 Scores by school size
 Scores by school typ
 
-#Summary 
+# Summary 
 
 
 A high-level snapshot of the district's key metrics, presented in a table format
