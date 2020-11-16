@@ -16,31 +16,31 @@ After doing so, we can observe the following;
 
 Thomas Highschool averages and the associated district averages have gone down.
 
-  * How is the school summary affected?
+* How is the school summary affected?
 
-  The overall passing rate in Thomas High School has gone down. 
+The overall passing rate in Thomas High School has gone down. 
 
-    * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-    Unfortunately given my incomplete code, the position relative to other schools post removal is incomplete. I do predict however that the school will rank
-    substantially lower, due to the removal of a large number of high-performing students. 
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-      * How does replacing the ninth-grade scores affect the following:
-      * Math and reading scores by grade
+Unfortunately given my incomplete code, the position relative to other schools post removal is incomplete. I do predict however that the school will ranksubstantially lower, due to the removal of a large number of high-performing students. 
 
-      All grades except the ninth grade are affected minimally. Ninth grade scores are largely Nan post removal. 
+* How does replacing the ninth-grade scores affect the following:
+* Math and reading scores by grade
 
-        * Scores by school spending
+All grades except the ninth grade are affected minimally. Ninth grade scores are largely Nan post removal. 
 
-        The score goes down, therefore Thomas High School ranks lower per dollar spent post grade removal. 
+* Scores by school spending
 
-          * Scores by school size
+The score goes down, therefore Thomas High School ranks lower per dollar spent post grade removal. 
 
-          The scores based on school size will decrease. Thomas High school is in the "medium" school bucket. 
+* Scores by school size
 
-            * Scores by school type
+The scores based on school size will decrease. Thomas High school is in the "medium" school bucket. 
 
-            Due to my lack of information I am unable to comment on this section. 
+* Scores by school type
+
+Due to my lack of information I am unable to comment on this section. 
 
 ## Summary 
 
